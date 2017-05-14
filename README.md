@@ -1,4 +1,4 @@
-# zebra-scanner
+# python-zebra-scanner
 
 Barcode reader in python for Zebra LI3678 Linear Imager.
 
